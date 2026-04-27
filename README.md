@@ -1,16 +1,34 @@
-## Hi there 👋
+# Sanjay 👋
 
-<!--
-**sanjaysivaramakrishnan/sanjaysivaramakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Learning to build systems that can recognize patterns, reason from data, and improve through experience.
 
-Here are some ideas to get you started:
+I'm a Machine Learning student focused on transforming theory into practical applications. My interests lie in understanding how models learn, how data shapes outcomes, and how intelligent systems can solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+* 📘 Machine Learning foundations & mathematical intuition
+* 🔥 Deep Learning with PyTorch and TensorFlow
+* 🎯 Training, tuning, and evaluating predictive models
+* ⚙️ Data pipelines, preprocessing, and feature engineering
+* 👁️ Computer Vision and NLP fundamentals
+* 🛠️ Building end-to-end projects from data to deployment
+
+## 🧰 Tech Stack
+
+`Python` `NumPy` `Pandas` `scikit-learn` `PyTorch` `TensorFlow` `Git` `GitHub`
+
+## 🏗️ Building
+
+Projects that strengthen intuition, sharpen engineering skills, and create measurable impact.
+
+## 🎯 Goal
+
+To grow into an engineer who builds reliable, scalable, and meaningful AI systems.
+
+## 💭 Philosophy
+
+> Learn deeply. Build consistently. Improve endlessly.
+
+## 🤝 Connect
+
+Always open to collaboration, ideas, and opportunities to learn.
